@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: Maundy
-Theme URL: https://bootstrapmade.com/maundy-free-coming-soon-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+This is web app developed in php,  javascript, html, css. This is an online Study materials repository for students.

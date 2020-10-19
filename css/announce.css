@@ -1,0 +1,154 @@
+.meta {
+    font-family: 'artifika',Helvetica,Arial,open-sans;
+    font-size: .9571rem;
+    font-weight: 600;
+    color: #d07000!important;
+}
+
+.titles a{
+     font-family: 'artifika',Helvetica,Arial,open-sans;
+    font-weight: 600;
+    font-size: 15px;
+    color: #ff8001!important;
+    
+    
+}
+
+@media (max-width: 991px) {
+  .announcements h2 {
+    border-bottom: none;
+    
+  }
+}
+
+@media (max-width: 991px) {
+  .announcements h2.events-heading {
+    padding-left: 15px;
+    margin-top: 20px;
+  }
+}
+
+.announcements .slick-slider ul {
+  font-family: "Open Sans Condensed", Arial, Verdana, sans-serif;
+
+}
+
+.announcements .scroll {
+    border:1px solid #ff7c0b;
+    background-color: rgba(255, 128, 0, 0.18);
+     color: #fa8700!important;
+   margin: auto;
+    width: 80%;
+    height:300px;
+    padding: 20px;
+    overflow:scroll;
+    overflow-y:scroll;
+    overflow-x:hidden; 
+   
+    }
+
+#style-2::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	border-radius: 10px;
+	background-color: rgb(128, 54, 0);
+}
+
+#style-2::-webkit-scrollbar
+{
+	width: 12px;
+	background-color: rgba(98, 30, 0, 0.48);
+}
+
+#style-2::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+	background-color: #ff6200;
+}
+
+.announcements .slick-slider ul li:last-child {
+  border-bottom: none;
+  margin-bottom:65px;
+    
+}
+
+.announcements .slick-slider ul li h3:hover a {
+  color: #7d3793;
+  text-decoration: underline;
+    
+}
+
+.announcements .slick-slider ul p {
+  font-size: 1.2rem;
+  font-family: "Helvetica Neue", Helvetica, Arial, open-sans;
+    
+}
+
+.announcements .slick-slider .all {
+  color: #0093e0!important;
+  font-family: "Helvetica Neue", Helvetica, Arial, open-sans;
+    
+}
+
+.announcements .slick-slider .all:hover {
+  border-bottom: none;
+    
+}
+
+.announcements .slick-slider .all .fa-caret-right {
+  padding-left: 6px;
+  position: relative;
+    
+}
+
+.announcements .slick-slider .all .fa-caret-right:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 6px;
+  bottom: -4px;
+  right: 0;
+  background-color: #fff;
+    
+}
+
+.announcements .left-right-arrows button:first-child {
+  margin-right: 3px;
+    
+}
+
+@media (max-width: 991px) {
+  .announcements {
+    margin: 0 auto;
+    width: 70%;
+      
+    
+  }
+}
+
+@media (max-width: 767px) {
+  .announcements {
+    width: 80%;
+  }
+}
+
+@media (max-width: 500px) {
+  .announcements {
+    width: 100%;
+  }
+}
+
+
+a {
+  color: #0093e0!important;
+    transition: all,.4s,ease;
+}
+
+
+
+#newbadge img{
+    
+    width: 30px;
+    height: 30px;
+}
